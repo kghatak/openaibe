@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1aef6805-f5ca-4b31-8d14-19f5662bf15e/appservices/subscriptions/1aef6805-f5ca-4b31-8d14-19f5662bf15e/resourceGroups/mpbe01-openai/providers/Microsoft.Web/sites/mpbe01",
+    "appService.deploySubpath": "."
+}
